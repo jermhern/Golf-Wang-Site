@@ -144,3 +144,12 @@ body, html {
 	padding-left: 40%;
 	height: 1899px;
 }
+
+.text-container {
+	margin: 10%;
+}
+
+.text-container h1 {
+	color: white;
+	font-size: 3rem;
+}

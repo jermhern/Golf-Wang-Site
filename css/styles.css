@@ -131,5 +131,16 @@ body, html {
 }
 
 /* BLOG page */
-
+.blog-container {
+	background-color: #FF7333;
+	width: 100%;
+	padding-left: 40%;
+	height: 1899px;
+}
 /* ABOUT page */
+.about-container {
+	background-color: #2BA9A5;
+	width: 100%;
+	padding-left: 40%;
+	height: 1899px;
+}

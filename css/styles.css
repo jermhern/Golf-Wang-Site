@@ -142,7 +142,7 @@ body, html {
 	background-color: #2BA9A5;
 	width: 100%;
 	padding-left: 40%;
-	height: 2055px;
+	height: 3650px;
 }
 
 .text-container {
@@ -150,14 +150,14 @@ body, html {
 }
 
 .text-container img {
-	position: absolute;
-	box-shadow: 2px 2px 8px grey;
+/*	position: absolute;
+*/	box-shadow: 2px 2px 8px grey;
 	z-index: 500;
 }
 
 .text-container h1 {
-	position: relative;
-	z-index: 1000;
+/*	position: relative;
+*/	z-index: 1000;
 	color: white;
 	font-size: 3.3rem;
 	font-family: Helvetica, sans-serif;
